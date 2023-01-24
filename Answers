@@ -1,0 +1,8 @@
+1: HEX{ju57_d3c0d3_7h3_b453}
+2: HEX{Y0u_mas73r3d_EXIF}
+3: HEX{y0u_Unl0cK3d_Ba51C_Stegonography}
+4: HEX{Easy_QR}
+5: HEX{345y_f1nd_345y_60}
+6: HEX{d3c0d3_7h3_b453_58th1571m3}
+7: HEX{ROT13_t0o_ba51c_f0R_m3}
+8: HEX{WELL_DONE_FOOL} (xxd --plain image.png > dump.txt | Magic number i början av filen -> Hitta PNG(89 50 4E 47))
