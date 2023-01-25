@@ -17,7 +17,7 @@ SEVYe2p1NTdfZDNjMGQzXzdoM19iNDUzfQ==
 
 
 
-2: Meta! Meta! Meta! (Image med flagga dold i exif)
+2: Meta! Meta! Meta!
 
 ![MetaMetaMeta](https://user-images.githubusercontent.com/76533304/214418660-d3827e15-ec28-4489-8715-a997c7b8dab7.png)
 
